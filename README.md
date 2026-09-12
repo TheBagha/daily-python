@@ -16,7 +16,7 @@ Cada pasta deve representar um dia de prática.
 ## Progresso
 
 - [x] dia001 - Primeiro script com `print`, `input` e variáveis
-- [ ] dia002 - Variáveis, tipos e `type()`
+- [x] dia002 - Variáveis, tipos, `type()` e `f-strings`
 - [ ] dia003 - Operadores matemáticos
 - [ ] dia004 - Condições com `if`, `elif` e `else`
 - [ ] dia005 - Par ou ímpar, positivo ou negativo

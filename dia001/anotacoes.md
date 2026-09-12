@@ -5,7 +5,7 @@
 - Primeiro contato com a linguagem Python.
 - Aprender os primeiros comandos básicos em Python.
 
-## Conceitos aprendidos
+## Anotações
 
 ### `Variáveis`
 
