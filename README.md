@@ -19,8 +19,8 @@ Cada pasta deve representar um dia de prática.
 
 [x] dia001 - Primeiro script com print(), input() e variáveis
 [x] dia002 - Tipos primitivos, type() e f-strings
-[] dia003 - Operadores aritméticos, relacionais e de atribuição
-[] dia004 - Condições com if, elif e else
+[x] dia003 - Operadores aritméticos, relacionais e de atribuição
+[x] dia004 - Condições com if, elif e else
 [] dia005 - Exercícios com condições: par ou ímpar, positivo ou negativo
 
 `Estruturas de repetição`
